@@ -1,4 +1,4 @@
-package delegate
+package structural.delegate
 
 class Triangle: Graphics {
     override fun draw() {

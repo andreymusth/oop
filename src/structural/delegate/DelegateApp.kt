@@ -1,4 +1,4 @@
-package delegate
+package structural.delegate
 
 fun main(args: Array<String>) {
 

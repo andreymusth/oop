@@ -1,4 +1,4 @@
-package delegate
+package structural.delegate
 
 interface Graphics {
 

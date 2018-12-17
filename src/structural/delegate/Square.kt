@@ -1,4 +1,4 @@
-package delegate
+package structural.delegate
 
 class Square: Graphics {
     override fun draw() {

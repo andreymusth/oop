@@ -1,4 +1,4 @@
-package delegate
+package structural.delegate
 
 class Circle: Graphics {
     override fun draw() {
